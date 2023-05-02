@@ -1,0 +1,50 @@
+
+video{
+ position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  height:100%;
+object-fit:cover;
+}
+
+
+.content {
+  position: sticky;
+  padding-top:initial;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+.Enterbutton{
+ 	padding: 16px 32px;
+    background-color: purple;
+    border-radius: 20px;
+    font-size: 30px;
+    opacity:60%
+
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.title{
+	 letter-spacing: 4px;
+  word-spacing: -8px;
+  text-shadow: 
+    -1px -1px 0 #131313,
+    -2px -2px 0 #131313,
+    -3px -3px 0 #131313,
+    -4px -4px 0 #131313,
+    -5px -5px 0 #131313,
+    -6px -6px 0 #131313,
+    -7px -7px 0 #131313,
+    -8px -8px 0 #131313,
+    -30px 20px 40px #131313;
+}
